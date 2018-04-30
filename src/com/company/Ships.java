@@ -50,6 +50,7 @@ public class Ships {
     }
 
 
+
     Ships(){
        System.out.println("Ship Create!");
    }
